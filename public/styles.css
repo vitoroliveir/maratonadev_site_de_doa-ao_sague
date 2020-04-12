@@ -1,4 +1,4 @@
-/*tirando configuraçao padrao de espaçamento do cromer*/
+
 /** GLOBAL **/
 
 *{
@@ -10,16 +10,14 @@ html , body{
     margin: 0;
 }
 
-/*para dixar o parabens semprem no fim da pagina */
 body{
     display: flex;
     flex-direction: column;
     height: 100vh;
 
-    /** fonte **/
     font-family: 'roboto' , sans-serif;
 
-    /* COR DO FUNDO DA PAGINA */
+    
     /**background: #f9f9f9;*/
     background: #ffffffee;
     
