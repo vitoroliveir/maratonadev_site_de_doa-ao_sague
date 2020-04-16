@@ -1,20 +1,3 @@
-DOE Sangue
-
-MaratonaDev 3.0 - DOE Sangue
- 
-
-Projeto DOE Sangue Desenvolvido durante a 3ª Edição da MaratonaDev da Rocketseat.
-🚀 Tecnologias
-Node.js | Javascript | Html | CSS | Nodemon | PostgreSQL | Nunjucks
-
-💻 Projeto
-O sistema Doe Sangue é um cadastro doadores de sangue, feito com Node.js, PostgreSQL e algumas dependências JS. O mesmo foi desenvolvido nos dias 17 e 18 de Fevereiro de 2020, durante a 3ª Edição do MaratonaDev, da Rocketseat.
-
-Frontend
-Página com o form oculto 
-
-Página com o form exposto, ao ser clicado o botão "Quero ajudar" 
-
 Instalação
 Em primeiro lugar, é necessário que você tenha o Node.js (com o NPM) e o PostgreSQL instalados em sua máquina. Caso ainda não os tenha, deixarei aqui os links para download, mas infelizmente não poderei na instalação dos mesmos. Segue os respectivos links de download:
 Node.JS
